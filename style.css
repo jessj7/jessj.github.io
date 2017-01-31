@@ -25,11 +25,18 @@ main{
 h3{
   text-align: center;
   font-size: 1.5em;
+  margin-bottom: 10px;
 }
 
 h4{
   margin-bottom: -10px;
   font-size: 1.27em;
+  margin-top: 30px;
+}
+
+h5{
+  margin-top: -10px;
+  text-align: center;
 }
 
 p{
